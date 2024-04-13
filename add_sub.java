@@ -16,6 +16,7 @@ public class add_sub {
 		
 		int answer = a + b;
 		
+		//add a code for subtraction
 		System.out.println("The addition of a and b is: "+answer);
 		sc.close();
 	}
