@@ -17,7 +17,10 @@ public class add_sub {
 		int answer = a + b;
 		
 		//add a code for subtraction
+		int sub_answer = a - b;
 		System.out.println("The addition of a and b is: "+answer);
+		//add a code for subtraction statement
+		System.out.println("The subtraction of a and b is : "+sub_answer);
 		sc.close();
 	}
 
