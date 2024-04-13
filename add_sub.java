@@ -14,11 +14,11 @@ public class add_sub {
 		System.out.println("Enter the value of b: ");
 		b = sc.nextInt();
 		
-		int answer = a + b;
+		int add_answer = a + b;
 		
 		//add a code for subtraction
 		int sub_answer = a - b;
-		System.out.println("The addition of a and b is: "+answer);
+		System.out.println("The addition of a and b is: "+add_answer);
 		//add a code for subtraction statement
 		System.out.println("The subtraction of a and b is : "+sub_answer);
 		sc.close();
